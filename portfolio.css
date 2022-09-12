@@ -41,6 +41,10 @@ body {
      .header-right a:hover{
          background-color: black;
      }
+  
+     .menu-icon{
+         display:none;
+     }
 
      .logo{
        width:100px;
