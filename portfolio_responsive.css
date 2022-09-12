@@ -116,7 +116,7 @@
                      }
     
          .work{
-             height:600px;
+             height:1000px;
          }
     
              .work-container{
@@ -124,8 +124,8 @@
              }
                  .languages{
                     float: left;
-                    width: 600px;
-                    height: 600px;
+                    width: 100%;
+                    height: 250px;
                     margin-left:70px;
                     margin-top:20px;
                     position: relative;
@@ -139,7 +139,7 @@
                      }
     
                      .work-icon{
-                         width:100px;
+                         width:60px;
                      }
     
                          .html{
@@ -169,14 +169,14 @@
                          }
     
                  .tools{
-                     float: right;
-                     width: 600px;
-                     height: 600px;
-                     margin-right:70px;
-                     margin-top:20px;
-                     position: relative;
-                     border-radius: 50%;
-                     border: 0.5px solid #E6E7E8;
+                    float: left;
+                    width: 100%;
+                    height: 250px;
+                    margin-left:70px;
+                    margin-top:20px;
+                    position: relative;
+                    border-radius: 50%;
+                    border: 0.5px solid #E6E7E8;
                  }
         
                        
