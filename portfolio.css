@@ -102,10 +102,12 @@ main{
                      font-size:15px;
                      font-weight:bold;
                      color:rgb(72, 72, 72);
+                     padding-top:10px;
                  }
                  .plofile-about{
                      font-size: 15px;
                      color:gray;
+                     padding-top:20px;
                  }
 
      .work{
