@@ -1,3 +1,5 @@
+
+
 body {
     margin: 0;
     font-family: "Hiragino Kaku Gothic ProN";
@@ -41,9 +43,9 @@ body {
      .header-right a:hover{
          background-color: black;
      }
-  
+
      .menu-icon{
-         display:none;
+         display: none;
      }
 
      .logo{
@@ -54,12 +56,12 @@ body {
 
 main{
    text-align: center;
-   height:4500px;
+   height:5200px;
  }
 
-     .mainvisual img{
+     .mainvisual{
          width:100%;
-         height: 1000px;
+         height: auto;
          margin:120px 0;
      }
      
@@ -74,7 +76,7 @@ main{
 
      .about{
         margin-bottom:30px;
-        height: 300px;
+        height: 500px;
      }
          .about-contaier{
               margin: 10px;
@@ -82,7 +84,7 @@ main{
 
               .icon{
                   float:left;
-                  margin-left:550px;
+                  margin-left:750px;
              }
 
               .icon-image{
@@ -94,7 +96,7 @@ main{
              .plofile{
                  float:right;
                  text-align: center;
-                 margin-right:600px;
+                 margin-right:750px;
              }
                  .plofile-name{
                      font-size:15px;
@@ -107,7 +109,7 @@ main{
                  }
 
      .work{
-         height:600px;
+         height:700px;
      }
 
          .work-container{
@@ -117,7 +119,7 @@ main{
                 float: left;
                 width: 600px;
                 height: 600px;
-                margin-left:70px;
+                margin-left:150px;
                 margin-top:20px;
                 position: relative;
                 border-radius: 50%;
@@ -163,7 +165,7 @@ main{
                  float: right;
                  width: 600px;
                  height: 600px;
-                 margin-right:70px;
+                 margin-right:150px;
                  margin-top:20px;
                  position: relative;
                  border-radius: 50%;
@@ -213,11 +215,8 @@ main{
                  height:250px;
                  border-bottom: 0.5px solid #b2b2b2;
                  padding:20px;
+                 width: auto;
              }
-            
-                 .code{
-                     margin:0;
-                 }
 
                      .code-image{
                          float:left;
@@ -228,7 +227,9 @@ main{
                      }
                      .code-about{
                          float:right;
-                         margin-right:280px;
+                         margin-right:200px;
+                         width:250px;
+                         height: 250px;
                      }
                      .code-image-upsidedown{
                          float:right;
@@ -239,7 +240,9 @@ main{
                     }
                     .code-about-upsidedown{
                          float:left;
-                         margin-left:280px;
+                         margin-left:200px;
+                         width:250px;
+                         height: 250px;
                     }
                          
                          .code-title{
@@ -289,7 +292,7 @@ footer{
 
      .SNS{
         float:left;
-        margin-left:350px;
+        margin-left:525px;
         width:600px;
         text-align: center;
         height: 100px;
