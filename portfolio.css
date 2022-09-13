@@ -84,7 +84,7 @@ main{
 
               .icon{
                   float:left;
-                  margin-left:750px;
+                  margin-left:500px;
              }
 
               .icon-image{
@@ -96,7 +96,7 @@ main{
              .plofile{
                  float:right;
                  text-align: center;
-                 margin-right:750px;
+                 margin-right:500px;
              }
                  .plofile-name{
                      font-size:15px;
@@ -119,7 +119,7 @@ main{
                 float: left;
                 width: 600px;
                 height: 600px;
-                margin-left:150px;
+                margin-left:70px;
                 margin-top:20px;
                 position: relative;
                 border-radius: 50%;
@@ -165,7 +165,7 @@ main{
                  float: right;
                  width: 600px;
                  height: 600px;
-                 margin-right:150px;
+                 margin-right:70px;
                  margin-top:20px;
                  position: relative;
                  border-radius: 50%;
@@ -292,7 +292,7 @@ footer{
 
      .SNS{
         float:left;
-        margin-left:525px;
+        margin-left:350px;
         width:600px;
         text-align: center;
         height: 100px;
