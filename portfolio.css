@@ -56,7 +56,7 @@ body {
 
 main{
    text-align: center;
-   height:5000px;
+   height:4800px;
  }
 
      .mainvisual{
@@ -84,7 +84,7 @@ main{
 
               .icon{
                   float:left;
-                  margin-left:470px;
+                  margin-left:500px;
              }
 
               .icon-image{
@@ -96,7 +96,7 @@ main{
              .plofile{
                  float:right;
                  text-align: center;
-                 margin-right:470px;
+                 margin-right:500px;
              }
                  .plofile-name{
                      font-size:15px;
